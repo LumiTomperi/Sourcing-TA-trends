@@ -1,20 +1,35 @@
 # Sourcing-TA-trends
 
 **Communities/groups**
+
 Mike “Batman” Cohen - Discord Community Hall of Justice 
+
 SourceCon
+
 Proactive Talent Acquisition Bench Building: Sourcing Strategy
+
 Talent Acquisition Innovators
+
 Sell To Recruiters
+
 Layoff Alerts for Talent Acquisition Professional (LATAP)
+
 Growth Hacking Recruiters
+
 The Sourcing Method
+
 BadAss Recruiters & Sourcers (BARS)
+
 SOSU (Sourcing Summit)
+
 Secret Sourcing Group
+
 Boolean Strings, the Internet Sourcing Community - FB
+
 Sourcers Who Code
+
 Recruiting Brainfood
+
 DBR dragonrecruiters.slack.com (the invitation is required)
 
 **Sourcing Gurus to follow on LI**
